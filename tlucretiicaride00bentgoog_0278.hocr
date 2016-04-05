@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucretiicaride00bentgoog_0278.png"; bbox 0 0 829 1440; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 137 184 618 207">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 137 184 618 207">
+     <span class='ocr_line' id='line_1_1' title="bbox 137 184 618 207; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 137 188 174 207; x_wconf 72' lang='lat'>⁵78</span> <span class='ocrx_word' id='word_1_2' title='bbox 262 184 435 204; x_wconf 76' lang='lat' dir='ltr'>VARIANTES</span> <span class='ocrx_word' id='word_1_3' title='bbox 449 184 538 204; x_wconf 81' lang='lat' dir='ltr'>LECTI</span> <span class='ocrx_word' id='word_1_4' title='bbox 543 185 618 205; x_wconf 79' lang='lat' dir='ltr'>ONEs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 909 282 957">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 909 282 957">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 909 280 920; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 191 910 217 920; x_wconf 74' lang='lat' dir='ltr'>ns.</span> <span class='ocrx_word' id='word_1_6' title='bbox 222 909 242 920; x_wconf 68' lang='lat' dir='ltr'>Aa</span> <span class='ocrx_word' id='word_1_7' title='bbox 246 909 280 920; x_wconf 69' lang='lat' dir='ltr'>nimiu</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 191 927 282 939; baseline -0.011 0"><span class='ocrx_word' id='word_1_8' title='bbox 191 929 217 939; x_wconf 72' lang='lat' dir='ltr'>zu-</span> <span class='ocrx_word' id='word_1_9' title='bbox 222 927 282 939; x_wconf 62' lang='lat' dir='ltr'>simul-m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 223 945 282 957; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 223 945 282 957; x_wconf 61' lang='lat' dir='ltr'>tainum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 190 964 284 979">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 190 964 284 979">
+     <span class='ocr_line' id='line_1_5' title="bbox 190 964 284 979; baseline -0.011 -3"><span class='ocrx_word' id='word_1_11' title='bbox 190 965 215 977; x_wconf 71' lang='grc' dir='ltr'>πι-</span> <span class='ocrx_word' id='word_1_12' title='bbox 219 964 263 976; x_wconf 68' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_13' title='bbox 275 970 278 979; x_wconf 86' lang='lat'>:</span> <span class='ocrx_word' id='word_1_14' title='bbox 282 965 284 967; x_wconf 97' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 133 229 728 1232">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 133 229 728 1232">
+     <span class='ocr_line' id='line_1_6' title="bbox 133 229 728 1232; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 133 229 728 1232; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

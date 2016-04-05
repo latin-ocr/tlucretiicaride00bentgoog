@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucretiicaride00bentgoog_0311.png"; bbox 0 0 2902 5190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 633 3638 760 4594">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 633 3638 760 4594">
+     <span class='ocr_line' id='line_1_1' title="bbox 633 3638 760 4594; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 633 3638 760 4594; x_wconf 51' lang='lat' dir='ltr'><em>mwQQQQQQfflqu</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 472 1678 866 1769">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 472 1678 866 1769">
+     <span class='ocr_line' id='line_1_2' title="bbox 472 1678 866 1769; baseline 0.005 -15"><span class='ocrx_word' id='word_1_2' title='bbox 472 1678 623 1756; x_wconf 87' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 658 1678 866 1769; x_wconf 85' lang='lat' dir='ltr'><strong>QUINTI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 770 3639 1192 4592">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 770 3647 1174 4592">
+     <span class='ocr_line' id='line_1_3' title="bbox 770 3647 975 4592; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 848 3885 975 4592; x_wconf 59' lang='lat' dir='ltr'><em>m„„QQ.QQQQ„Q2m</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 848 3809 899 3841; x_wconf 60' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_6' title='bbox 770 3647 933 3768; x_wconf 61' lang='lat' dir='ltr'><em>Qm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1061 3639 1192 4587; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 1062 3880 1192 4587; x_wconf 56' lang='lat' dir='ltr'><em>meQQQQQQm</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1062 3806 1113 3839; x_wconf 61' lang='grc' dir='ltr'><strong><em>η</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1061 3639 1146 3766; x_wconf 93' lang='lat' dir='ltr'><em>Q-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 179 1029 1155 1466">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 179 1029 1155 1466">
+     <span class='ocr_line' id='line_1_5' title="bbox 179 1029 1155 1136; baseline -0.001 -3"><span class='ocrx_word' id='word_1_10' title='bbox 179 1032 241 1135; x_wconf 88' lang='lat' dir='ltr'><em>T.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 308 1029 802 1134; x_wconf 87' lang='lat' dir='ltr'>LUCRETIUS</span> <span class='ocrx_word' id='word_1_12' title='bbox 864 1032 1155 1136; x_wconf 88' lang='lat' dir='ltr'><strong>CARUS.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 315 1378 1013 1466; baseline 0.001 -3"><span class='ocrx_word' id='word_1_13' title='bbox 315 1378 656 1466; x_wconf 88' lang='lat' dir='ltr'>VARIANTES</span> <span class='ocrx_word' id='word_1_14' title='bbox 685 1378 1013 1465; x_wconf 85' lang='lat' dir='ltr'>LECTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1458 5190">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1458 5190">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1458 5190; textangle 180"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1458 5190; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

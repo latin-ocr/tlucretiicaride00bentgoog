@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucretiicaride00bentgoog_0281.png"; bbox 0 0 2902 5190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 481 960 575">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 481 960 575">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 481 960 575; baseline 0.016 -17"><span class='ocrx_word' id='word_1_1' title='bbox 520 481 687 561; x_wconf 84' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 717 484 960 575; x_wconf 82' lang='lat' dir='ltr'><strong>QUARTI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 738 1033 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 687 1050 1184">
+     <span class='ocr_line' id='line_1_2' title="bbox 187 738 875 799; baseline 0.013 -9"><span class='ocrx_word' id='word_1_3' title='bbox 187 738 191 755; x_wconf 96' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 460 758 668 794; x_wconf 63' lang='lat' dir='ltr'><strong>sumnum-</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 687 762 875 799; x_wconf 71' lang='lat' dir='ltr'><strong>mmmm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 274 800 1033 849; baseline 0.014 -11"><span class='ocrx_word' id='word_1_6' title='bbox 274 800 427 841; x_wconf 68' lang='lat' dir='ltr'>munus.</span> <span class='ocrx_word' id='word_1_7' title='bbox 948 813 1033 849; x_wconf 68' lang='lat' dir='ltr'>unua.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 340 994 615 1055; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 340 994 373 1007; x_wconf 74' lang='lat'><strong>’⁶</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 516 997 615 1055; x_wconf 72' lang='lat' dir='ltr'><strong>Vm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 535 1138 597 1184; baseline 0.048 -3"><span class='ocrx_word' id='word_1_10' title='bbox 535 1138 597 1184; x_wconf 69' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1456 5190">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1456 5190">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1456 5190; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1456 5190; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
